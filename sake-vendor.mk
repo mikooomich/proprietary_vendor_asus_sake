@@ -1350,4 +1350,4 @@ PRODUCT_PACKAGES += \
     c2_manifest_vendor \
     manifest_android.hardware.drm@1.3-service.widevine \
     vendor.qti.diag.hal.service \
-    vendor.qti.gnss@4.0-service \
+    vendor.qti.gnss@4.0-service
