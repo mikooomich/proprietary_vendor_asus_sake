@@ -493,18 +493,6 @@ PRODUCT_PACKAGES += \
     libCB \
     libFlacSwDec \
     libMpeghSwEnc \
-    libOmxAacDec \
-    libOmxAlacDec \
-    libOmxAlacDecSw \
-    libOmxAmrDec \
-    libOmxAmrwbplusDec \
-    libOmxApeDec \
-    libOmxApeDecSw \
-    libOmxEvrcDec \
-    libOmxG711Dec \
-    libOmxMpeghEncSw \
-    libOmxQcelp13Dec \
-    libOmxWmaDec \
     libOpenCL \
     libVkLayer_q3dtools \
     libacdb-fts \
@@ -571,8 +559,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@2.0 \
     vendor.qti.voiceprint@1.0 \
     vendor.qti.hardware.capabilityconfigstore@1.0-impl \
-    libOmxDsdDec \
-    libOmxMpeghDecSw \
     libadm \
     libadpcmdec \
     libdiracgefwrapper \
